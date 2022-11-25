@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Av89hiidpbjNj+Kmx5kgwAM8I8QNdh7Strx13Gh9rlYUCTReFFr+npHpnH9ooAL5kUJ/oz5MgQVKW50pSYFSw==",
+  "dgSpecHash": "lb+Nb2r6NrYtIACXw1J0yRdam75oMCnUBk1D/SixbzJBJIUnHpRFznh+eBzeR3/4Xo2ZWXRNEfvz6wBg1AMzTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\main\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "D:\\Github\\SchoolCommentGenerator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\main\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
     "C:\\Users\\main\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

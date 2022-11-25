@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\main\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\Github\\SchoolCommentGenerator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\main\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\Github\\SchoolCommentGenerator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\main\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\Github\\SchoolCommentGenerator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\main\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "D:\\Github\\SchoolCommentGenerator\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\main\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\main\\Desktop\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\Github\\SchoolCommentGenerator\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\main\\AppData\\Roaming\\NuGet\\NuGet.Config",

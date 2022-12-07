@@ -204,8 +204,8 @@ namespace WinFormsApp1
                             /*         richTextBox1.Text = richTextBox1.Text + "\n\n" + message;*/
                             richTextBox1.Text = message;
 
-                            /* Clipboard.SetText(message);*/
-                            Clipboard.SetDataObject(message, true, 10, 100);
+                            
+                            /*Clipboard.SetDataObject(message, true, 10, 100);*/
                             firstOUtOf++;
                             OutHowManyStudents.Text = firstOUtOf + "/" + lastOutOf;
                             fs.Close();
@@ -247,7 +247,7 @@ namespace WinFormsApp1
                                 /*         richTextBox1.Text = richTextBox1.Text + "\n\n" + message;*/
                                 richTextBox1.Text = message;
                                 /*Clipboard.SetText(message);*/
-                                Clipboard.SetDataObject(message, true, 10, 100);
+                                /*Clipboard.SetDataObject(message, true, 10, 100);*/
 
                                 firstOUtOf--;
                                 OutHowManyStudents.Text = firstOUtOf + "/" + lastOutOf;
@@ -298,7 +298,7 @@ namespace WinFormsApp1
                         /*         richTextBox1.Text = richTextBox1.Text + "\n\n" + message;*/
                         richTextBox1.Text = message;
                         /*Clipboard.SetText(message);*/
-                        Clipboard.SetDataObject(message, true, 10, 100);
+                        /*Clipboard.SetDataObject(message, true, 10, 100);*/
 
                         firstOUtOf = nextMessage;
                         lastOutOf = lastMessage;
